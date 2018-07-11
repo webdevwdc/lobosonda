@@ -1,0 +1,64 @@
+
+.form-validate label.error{
+    color: #f7656a !important;
+}
+.form-control.required.error{
+   border: 1px solid #f47075; 
+}
+.horizontal-form h3 {
+	margin-top: 0 !important;
+}
+
+.navbar-static-side ul li .nav-second-level li .nav-third-level li {
+    text-indent: 15px !important;
+}
+
+.has-error-tab {
+	background: #e74c3c !important;
+	border-right: 4px solid #fff;
+}
+
+.has-error-tab a {
+	color: #fff;
+}
+
+.f16 .flag {
+    margin-top: 2.5px !important;
+}
+
+.has-error .note-editor.note-frame {
+    border: 1px solid #a94442 !important;
+}
+.drop-outer{
+	position: relative;;
+}
+.searchFilters{
+	position: absolute;;
+}
+ul.searchFilters li {
+    list-style: none;
+    padding-bottom: 10px;
+}
+.searchFilters {
+    position: absolute;
+    background: #fff;
+    border: 1px solid #c5c5c5;
+    padding: 23px;
+    z-index: 99;
+}
+.drop-outer input {
+    width: 109px; /*109px*/
+    margin-right: 10px;
+}
+.no-filer{
+    text-align: right;
+    vertical-align: middle;
+    }
+tfoot input {
+        width: 100%;
+        padding: 3px;
+        box-sizing: border-box;
+    }
+tfoot {
+    display: table-header-group;
+}

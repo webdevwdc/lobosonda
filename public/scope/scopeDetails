@@ -1,0 +1,14 @@
+1.User Groups and roles:
+
+Admin - The admin can edit the details of each table, introduce new employees or
+edit existing ones and designate staff. Can also edit trips, introduce or edit
+species on the specie table. Introduce new hotel logins or edit existing ones.
+
+Staff - Can do bookings, introduce clients on the database, and indicate the
+hours spent on each task.
+
+Hotels - Can request bookings, introduce clients on the database.
+
+Clients - No access. They only receive a confirmation email with the details of
+their upcoming trip, date and hour and meeting point. They can also receive an
+email if a trip is being canceled, due to bad weather for example.
